@@ -1,0 +1,22 @@
+{
+    "name": "akonio",
+    "displayName": "Akonio",
+    "description": "Its a dark theme made for making yours eyes comfortable in dark environment",
+    "version": "0.0.1",
+    "publisher": "Avinash",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Akonio",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Akonio-color-theme.json"
+            }
+        ]
+    }
+}
