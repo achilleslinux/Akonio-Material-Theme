@@ -3,7 +3,7 @@
     "displayName": "Akonio-Material-Theme",
     "description": "Its a dark theme made for making yours eyes comfortable in dark environment",
     "icon": "images/logo.png",
-    "version": "1.0.1",
+    "version": "2.0.1",
     "publisher": "AvinashKumar",
     "engines": {
         "vscode": "^1.26.0"
