@@ -52,4 +52,4 @@ Launch *Quick Open*,
 Type `theme` and choose `Preferences: Color Theme`, then select the Akonio Theme from the list. After the activation the theme will set the correct icons theme for you, based on your picked theme variant.
 
 
-This repo contains both the version of Akonio theme in ```.vsix``` format.
+This repo contains both the version of Akonio theme in ```.vsix``` format. You can directly download the ```.vsix``` file and follow the above instructions to install it.
