@@ -32,8 +32,7 @@ Depending on your platform it is located in the following folders:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
   
-  
-  This repo contains both the version of Akonio theme in ```.vsix``` format.
+
 
 Clone the Material Theme repository as `achilleslinux.Akonio-Material-Theme`:
 
@@ -51,3 +50,6 @@ Launch *Quick Open*,
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
 Type `theme` and choose `Preferences: Color Theme`, then select the Akonio Theme from the list. After the activation the theme will set the correct icons theme for you, based on your picked theme variant.
+
+
+This repo contains both the version of Akonio theme in ```.vsix``` format.
