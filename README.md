@@ -31,6 +31,9 @@ Depending on your platform it is located in the following folders:
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> **Linux** `~/.vscode/extensions`
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
+  
+  
+  This repo contains both the version of Akonio theme in ```.vsix``` format.
 
 Clone the Material Theme repository as `achilleslinux.Akonio-Material-Theme`:
 
