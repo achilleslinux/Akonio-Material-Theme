@@ -1,9 +1,9 @@
 {
     "name": "akonio",
     "displayName": "Akonio-Material-Theme",
-    "description": "Its a dark theme made for making yours eyes comfortable in dark environment",
+    "description": "Dark Theme for Dark days",
     "icon": "images/logo.png",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "publisher": "AvinashKumar",
     "engines": {
         "vscode": "^1.26.0"
