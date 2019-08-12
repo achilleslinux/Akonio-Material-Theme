@@ -3,7 +3,7 @@
     "displayName": "Akonio-Material-Theme",
     "description": "Dark Theme for Dark days",
     "icon": "images/logo.png",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "publisher": "AvinashKumar",
     "engines": {
         "vscode": "^1.26.0"
