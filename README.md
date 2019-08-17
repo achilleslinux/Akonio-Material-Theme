@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 
 <p align="center"><img width="980px" src="https://i.imgur.com/AJrDJZ7.png"></p>
 The most dark theme made for Visual Studio Code. You can help by reporting issues [here](https://github.com/achilleslinux/Akonio-Material-Theme/issues)
