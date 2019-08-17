@@ -1,7 +1,8 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![Akonio-Material-Theme](https://img.shields.io/visual-studio-marketplace/d/AvinashKumar.akonio)]()
+[![Akonio-Material-Theme](https://img.shields.io/visual-studio-marketplace/i/AvinashKumar.akonio)]()
 
 <p align="center"><img width="980px" src="https://i.imgur.com/AJrDJZ7.png"></p>
-The most dark theme made for Visual Studio Code. You can help by reporting issues [here](https://github.com/achilleslinux/Akonio-Material-Theme/issues)
+The most dark theme made for Visual Studio Code. You can help by reporting issues.
 
 - [Getting started](#getting-started)
     - [Installation](#installation)
@@ -54,3 +55,5 @@ Type `theme` and choose `Preferences: Color Theme`, then select the Akonio Theme
 
 
 This repo contains both the version of Akonio theme in ```.vsix``` format. You can directly download the ```.vsix``` file and follow the above instructions to install it.
+
+You can also fork this repo and customize it.
