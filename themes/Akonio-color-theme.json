@@ -693,7 +693,7 @@
     "badge.background": "#ffffff",
     "badge.foreground": "#FF7200",
     "button.background": "#0026ff8c",
-    "button.foreground": "#fff",
+    "button.foreground": "#ffffff",
     "button.hoverBackground": "#3c48b9",
     "contrastActiveBorder": null,
     "contrastBorder": "#ffffff00",
