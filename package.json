@@ -1,23 +1,56 @@
 {
-    "name": "akonio",
-    "displayName": "Akonio-Material-Theme",
-    "description": "Dark Theme for Dark days",
-    "icon": "images/logo.png",
-    "version": "5.1.0",
-    "publisher": "AvinashKumar",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Akonio",
+	"name": "akonio",
+	"displayName": "Akonio-Material-Theme",
+	"description": "Theme to make you feel comfortable in vscode",
+	"version": "6.0.0",
+	"publisher": "AvinashKumar",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/achilleslinux/Akonio-Material-Theme"
+	},
+	"bugs": {
+		"url": "https://github.com/achilleslinux/Akonio-Material-Theme/issues",
+		"email": "achilleslinux@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icon-theme",
+		"theme",
+		"akonio",
+		"material",
+		"material-theme",
+		"material theme",
+		"best theme",
+		"dark theme"
+	],
+	"homepage": "https://github.com/achilleslinux/Akonio-Material-Theme",
+	"icon": "images/logo.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Akonio",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Akonio-color-theme.json"
-            }
-        ]
-    }
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "akonio",
+				"label": "Akonio",
+				"path": "./akonio-icons.json"
+			}
+		]
+	},
+	"scripts": {
+		"build": "ts-node ./src/build.ts",
+		"package": "vsce package",
+		"start": "npm run build; npm run package",
+		"publish": "vsce publish"
+	}
 }
