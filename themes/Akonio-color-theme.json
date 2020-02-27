@@ -5,7 +5,7 @@
 	  {
 		"settings": {
 		  "background": "#212121",
-		  "foreground": "#ffffff"
+		  "foreground": "#ffffffc0"
 		}
 	  },
 	  {
@@ -16,7 +16,7 @@
 		],
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#ffffff"
+		  "foreground": "#ffffff83"
 		}
 	  },
 	  {
