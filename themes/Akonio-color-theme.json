@@ -710,7 +710,7 @@
 	"dropdown.foreground": "#D4D4D4",
     "editor.background": "#000000",
     "editor.foreground": "#ffffff",
-    "editor.findMatchBackground": "#FF7200",
+    "editor.findMatchBackground": "#ff730083",
     "editor.findMatchHighlightBackground": "#CAD40F66",
     "editor.findRangeHighlightBackground": "#243E51",
     "editor.hoverHighlightBackground": "#ffc60033",
