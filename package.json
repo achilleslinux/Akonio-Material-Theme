@@ -37,9 +37,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Akonio",
+				"label": "Akonio Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Akonio-dark-theme.json"
+			}
+			{
+				"label": "Akonio Light",
+				"uiTheme": "vs-light",
+				"path": "./themes/Akonio-light-theme.json"
 			}
 		],
 		"iconThemes": [
