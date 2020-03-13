@@ -39,7 +39,7 @@
 			{
 				"label": "Akonio",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Akonio-color-theme.json"
+				"path": "./themes/Akonio-dark-theme.json"
 			}
 		],
 		"iconThemes": [
