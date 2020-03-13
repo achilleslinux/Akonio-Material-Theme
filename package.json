@@ -43,7 +43,7 @@
 			}
 			{
 				"label": "Akonio Light",
-				"uiTheme": "vs-light",
+				"uiTheme": "vs",
 				"path": "./themes/Akonio-light-theme.json"
 			}
 		],
