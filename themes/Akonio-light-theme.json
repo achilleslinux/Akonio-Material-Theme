@@ -1,5 +1,6 @@
 {
     "name": "Akonio-Light-Theme",
+    "$schema": "vscode://schemas/color-theme",
     "type": "light",
     "tokenColors": [
         {
