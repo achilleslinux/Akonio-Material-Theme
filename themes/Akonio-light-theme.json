@@ -1,6 +1,6 @@
 {
-    "name": "Akonio-Color-Theme",
-    "type": "dark",
+    "name": "Akonio-Light-Theme",
+    "type": "light",
     "tokenColors": [
         {
             "settings": {
@@ -709,7 +709,7 @@
         "dropdown.border": "#30373A",
         "dropdown.foreground": "#D4D4D4",
         "editor.background": "#000000",
-        "editor.foreground": "#ffffff",
+        "editor.foreground": "#c1b08e",
         "editor.findMatchBackground": "#f0b0b06c",
         "editor.findMatchHighlightBackground": "#f3c9c93a",
         "editor.findRangeHighlightBackground": "#f0ebeb00",
