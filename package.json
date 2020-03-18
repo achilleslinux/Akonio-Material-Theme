@@ -30,6 +30,8 @@
 		"dark theme",
 		"themes",
 		"flutter",
+		"black theme",
+		"black-theme",
 		"reactnative"
 	],
 	"homepage": "https://github.com/achilleslinux/Akonio-Material-Theme",
@@ -37,9 +39,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Akonio",
+				"label": "Akonio Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Akonio-color-theme.json"
+				"path": "./themes/Akonio-dark-theme.json"
+			},
+			{
+				"label": "Akonio Light",
+				"uiTheme": "vs",
+				"path": "./themes/Akonio-light-theme.json"
 			}
 		],
 		"iconThemes": [
