@@ -5,7 +5,7 @@
 [![Akonio-Material-Theme](https://img.shields.io/visual-studio-marketplace/i/AvinashKumar.akonio)]()
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
-<p align="center"><img width="980px" src="https://i.imgur.com/AJrDJZ7.png"></p>
+<p align="center"><img width="980px" src="https://github.com/achilleslinux/Akonio-Material-Theme/blob/master/images/preview.png"></p>
 The most dark theme made for Visual Studio Code. You can help by reporting issues.
 
 - [Getting started](#getting-started)
