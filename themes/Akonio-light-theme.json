@@ -17,7 +17,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#ffffff83"
+                "foreground": "#9c9a9afd"
             }
         },
         {
@@ -751,9 +751,9 @@
 		"tab.inactiveForeground": "#959da6",
 		"tab.unfocusedActiveForeground": "#959da6",
 		"tab.unfocusedInactiveForeground": "#959da6",
-		"editor.background": "#fdfdfd",
+		"editor.background": "#ffffff",
 		"editor.foreground": "#000000",
-		"editorLineNumber.foreground": "#959da666",
+		"editorLineNumber.foreground": "#000000",
 		"editorLineNumber.activeForeground": "#959da6cc",
 		"editorCursor.foreground": "#404dff",
 		"editor.selectionBackground": "#e8eef4",
