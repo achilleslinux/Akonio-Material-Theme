@@ -62,3 +62,4 @@ Type `theme` and choose `Preferences: Color Theme`, then select the Akonio Theme
 This repo contains both the version of Akonio theme in ```.vsix``` format. You can directly download the ```.vsix``` file and follow the above instructions to install it.
 
 Feel free to fork this repo and customize it.
+Please star the repo
