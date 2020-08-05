@@ -29,7 +29,7 @@ Paste the following command and press `Enter`:
 ```shell
 ext install AvinashKumar.akonio
 ```
-##### GitHub Repository Clone
+## GitHub Repository Clone
 
 Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
 Depending on your platform it is located in the following folders:
