@@ -1,5 +1,4 @@
 <h1><p align="center">Akonio-Material-Theme</p></h1>
-<h1>This is a repo</h1>
 
 [![Akonio-Material-Theme](https://img.shields.io/visual-studio-marketplace/d/AvinashKumar.akonio)]()
 [![Akonio-Material-Theme](https://img.shields.io/visual-studio-marketplace/i/AvinashKumar.akonio)]()
@@ -30,7 +29,7 @@ Paste the following command and press `Enter`:
 ```shell
 ext install AvinashKumar.akonio
 ```
-##### GitHub Repository Clone
+## GitHub Repository Clone
 
 Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
 Depending on your platform it is located in the following folders:
