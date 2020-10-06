@@ -709,7 +709,7 @@
         "dropdown.background": "#242B2E",
         "dropdown.border": "#30373A",
         "dropdown.foreground": "#D4D4D4",
-        "editor.background": "#07020d",
+        "editor.background": "#000000",
         "editor.foreground": "#ffffff",
         "editor.findMatchBackground": "#f0b0b06c",
         "editor.findMatchHighlightBackground": "#f3c9c93a",
