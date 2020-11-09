@@ -720,7 +720,7 @@
         "editor.lineHighlightBorder": "#234E6D",
         "editor.rangeHighlightBackground": "#1F4662",
         "editor.selectionBackground": "#7fb1daa4",
-        "editor.selectionHighlightBackground": "#ffffff70",
+        "editor.selectionHighlightBackground": "#ffffff10",
         "editor.wordHighlightStrongBackground": "#FFFFFF0D",
         "editor.wordHighlightBackground": "#FFFFFF0D",
         "editorBracketMatch.background": "#0d3a58",
