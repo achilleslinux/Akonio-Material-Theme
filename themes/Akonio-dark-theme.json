@@ -685,7 +685,7 @@
         }
     ],
     "colors": {
-        "activityBar.background": "#31363D",
+        "activityBar.background": "#000000",
         "activityBar.border": "#000000",
         "activityBar.dropBackground": "#65567773",
         "activityBar.foreground": "#ffffff",
@@ -856,7 +856,7 @@
         "tab.activeForeground": "#fff",
         "tab.border": "#000000",
         "tab.activeBorder": "#ffc600",
-        "tab.inactiveBackground": "#193549",
+        "tab.inactiveBackground": "#000000",
         "tab.inactiveForeground": "#aaa",
         "tab.unfocusedActiveForeground": "#aaa",
         "tab.unfocusedInactiveForeground": "#aaa",
