@@ -706,7 +706,7 @@
         "diffEditor.insertedTextBorder": "#3ad90055",
         "diffEditor.removedTextBackground": "#ee3a4311",
         "diffEditor.removedTextBorder": "#ee3a4355",
-        "dropdown.background": "#242B2E",
+        "dropdown.background": "#000000",
         "dropdown.border": "#30373A",
         "dropdown.foreground": "#D4D4D4",
         "editor.background": "#000000",
