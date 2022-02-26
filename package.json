@@ -2,7 +2,7 @@
 	"name": "akonio",
 	"displayName": "Akonio-Material-Theme",
 	"description": "Theme to make you feel comfortable in vscode",
-	"version": "7.0.8",
+	"version": "8.0.1",
 	"publisher": "AvinashKumar",
 	"license": "MIT",
 	"repository": {
@@ -17,7 +17,8 @@
 		"vscode": "^1.13.0"
 	},
 	"categories": [
-		"Themes"
+		"Themes",
+		"Extension Packs"
 	],
 	"keywords": [
 		"icon-theme",
@@ -49,6 +50,11 @@
 				"label": "Akonio Light",
 				"uiTheme": "vs",
 				"path": "./themes/Akonio-light-theme.json"
+			},
+			{
+				"label": "Akonio Grey",
+				"uiTheme": "vs",
+				"path": "./themes/Akonio-grey-theme.json"
 			}
 		],
 		"iconThemes": [

@@ -206,8 +206,8 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "normal",
-                "foreground": "#C3E88D"
+                "fontStyle": "",
+                "foreground": "#86c22b"
             }
         },
         {
